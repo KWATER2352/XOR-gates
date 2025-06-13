@@ -7,6 +7,7 @@
 
 2. Some challenges I found during the labs performance was the tediousness of converting back to decimal to get to binary. Also, figuring out XOR gates and how they would be implemented but I figured it out!
 
-3. ![WhatsApp Image 2025-06-13 at 2 03 47 AM](https://github.com/user-attachments/assets/4050dabd-de68-4149-bb9f-1684a487d6e4)
+4. ![WhatsApp Image 2025-06-13 at 2 03 47 AM](https://github.com/user-attachments/assets/4050dabd-de68-4149-bb9f-1684a487d6e4)
 
-4. ![WhatsApp Image 2025-06-13 at 2 03 48 AM](https://github.com/user-attachments/assets/61fcde89-ee2d-4902-ad07-48d91e4596d1)
+5. ![WhatsApp Image 2025-06-13 at 2 03 48 AM](https://github.com/user-attachments/assets/61fcde89-ee2d-4902-ad07-48d91e4596d1)
+6. In order to deal with different length message and key I would use a hash index for the key like % depending on its length, and then encrypt from there. 
